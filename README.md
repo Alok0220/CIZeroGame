@@ -1,2 +1,2 @@
 # CIZeroGame
-#### Android Game, Developed for Joffer Systems
+#### Android Game, Single Person Game Version 1.0 Developed for Joffer Systems LTD
