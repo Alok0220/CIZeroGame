@@ -7,4 +7,4 @@
 #### Recent Changes, Not Committed On GitHub
 
 ### --------------------------------------------------------
-![splash_screen.PNG](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/splash_screen.PNG)
+![splash_screen.PNG](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/splash_screen1.PNG)
