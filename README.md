@@ -29,6 +29,6 @@
 ![playknife.PNG](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/playknife.PNG)
 ### ---------------------------------------------------------
 
-#### Game Level 1 Complete - 1/1/2022
-#### Support Multiple Devices - 1/1/2022
+#### Game Level 1 Complete - 
+#### Support Multiple Devices - 1/1/22
 #### Add Other Levels -
