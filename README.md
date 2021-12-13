@@ -30,5 +30,5 @@
 ### ---------------------------------------------------------
 
 #### Game Level 1 Complete - 
-#### Support Multiple Devices - 
+#### Support multiple hdpi Devices - 1/1/22
 #### Add Other Levels -
