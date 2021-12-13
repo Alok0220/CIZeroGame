@@ -30,5 +30,5 @@
 ### ---------------------------------------------------------
 
 #### Game Level 1 Complete - 
-#### Support Multiple Devices - 1/1/22
+#### Support Multiple Devices - 
 #### Add Other Levels -
