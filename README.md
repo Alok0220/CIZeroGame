@@ -29,6 +29,8 @@
 #### Support multiple hdpi 1.5 Devices - 
 #### Support multiple mdpi 1 Devices - 
 
+#### ----
+
 #### Add Other Levels -
 
 ![gameAction.gif](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/gameAction.gif)
