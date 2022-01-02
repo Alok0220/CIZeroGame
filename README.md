@@ -21,14 +21,6 @@
 #### Add Player - 11/12/2021
 #### Handle Controls - 11/12/2021
 
-
-### --------------------------------------------------------
-![splash_screen1.png](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/splash_screen1.png)
-![levelBG1.PNG](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/levelBG1.PNG)
-![playfire.PNG](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/playfire.PNG)
-![playknife.PNG](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/playknife.PNG)
-### ---------------------------------------------------------
-
 #### Game Level 1 Complete - 
 #### Support multiple xxhdpi 3 Devices - 1/1/22
 #### Support multiple xhdpi 2 Devices - 
