@@ -21,15 +21,14 @@
 #### Add Player - 11/12/2021
 #### Handle Controls - 11/12/2021
 
+#### ----
+
 #### Game Level 1 Complete - 
 #### Support multiple xxhdpi 3 Devices - 1/1/22
 #### Support multiple xhdpi 2 Devices - 
 #### Support multiple hdpi 1.5 Devices - 
 #### Support multiple mdpi 1 Devices - 
+
 #### Add Other Levels -
 
-#### Game Level 2
-
-
-#### Game Level 4
 ![gameAction.gif](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/gameAction.gif)
