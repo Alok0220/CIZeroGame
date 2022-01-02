@@ -40,4 +40,4 @@
 
 
 #### Game Level 4
-![gameAction.GIF](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/gameAction.GIF)
+![gameAction.gif](https://github.com/Alok0220/CIZeroGame/blob/main/app/src/main/res/drawable-v24/gameAction.gif)
