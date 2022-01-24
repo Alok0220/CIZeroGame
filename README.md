@@ -1,6 +1,6 @@
 # CIZeroGame
 #### Android Game, Single Person Game Version 1.0 Developed for Joffer Systems  LTD  @ www.joffer.nz
-
+#### dethealok07@gmail.com, contact@joffer.nz
 
 ### --------------------------------------------------------
 
@@ -30,11 +30,11 @@
 
 #### ----
 
-#### Game Level 1 Map Player Enemy - Complete
-#### Game Level 2 Map Player Enemy - Complete
-#### Game Level 3 Map Player Enemy - Complete
-#### Game Level 4 Map Player Enemy - Complete
-#### Game Level 5 Map Player Enemy - Complete
+#### Game Level 1 Map Player - Complete
+#### Game Level 2 Map Player - Complete
+#### Game Level 3 Map Player - Complete
+#### Game Level 4 Map Player - Complete
+#### Game Level 5 Map Player - Complete
 
 #### Add Other Levels -
 
